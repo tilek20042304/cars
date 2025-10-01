@@ -17,6 +17,7 @@
         <input type="password" name="password" placeholder="Введите свой пароль " class="form-control">
         <button type="submit" name="button" class="btn btn-success">Отправить</button>
 </div>
+
 </form>
 
 </body>
